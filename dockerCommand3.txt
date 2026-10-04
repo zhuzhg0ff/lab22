@@ -1,1 +1,1 @@
-docker -ps build -t myjenkins-blueocean:2.462.2-1 .
+docker build -t myjenkins-blueocean:2.462.2-1 .
